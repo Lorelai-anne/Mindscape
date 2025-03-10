@@ -7,8 +7,8 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
     public Camera playerCamera;
-    public float walkSpeed = 120f;
-    public float runSpeed = 200f;
+    public float walkSpeed = 10f;
+    public float runSpeed = 20f;
     public float jumpPower = 7f;
     public float gravity = 10f;
     public float lookSpeed = 2f;
@@ -65,8 +65,8 @@ public class PlayerMovement : MonoBehaviour
         else
         {
             characterController.height = defaultHeight;
-            walkSpeed = 120f;
-            runSpeed = 200f;
+            walkSpeed = 10f;
+            runSpeed = 20f;
         }
 
         characterController.Move(moveDirection * Time.deltaTime);
