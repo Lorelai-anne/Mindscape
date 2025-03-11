@@ -54,23 +54,23 @@ Material:
     - _Anisotropy: 0.76
     - _B: -2
     - _CloudAnisotropy: 0.779
-    - _CloudBrightness: 60
+    - _CloudBrightness: 25
     - _CloudDensity: 2
     - _CloudDensitySmoothness: 1
-    - _CloudHeight: 0.294
+    - _CloudHeight: 0.473
     - _CloudPhase: 0
     - _CloudScale: 0.5
     - _CloudSmoothness: 0.35
-    - _CloudSoftness: 0.317
+    - _CloudSoftness: 0.576
     - _CloudSpeed: 5
-    - _CloudThickness: 0.424
-    - _CloudTwirl: 0.09
-    - _DayBrightness: 1
+    - _CloudThickness: 0.55
+    - _CloudTwirl: 0.15
+    - _DayBrightness: 0.01
     - _DayScatterStrength: 0.5
     - _DensityAtSeaLevel: 1.225
     - _DensityPower: 55
     - _EveningBrightness: 0.35
-    - _EveningScatterStrength: 5
+    - _EveningScatterStrength: 1
     - _EveningThreshold: 1.5
     - _IndexOfRefraction: 180
     - _K: 2
@@ -80,7 +80,7 @@ Material:
     - _Saturation: 1
     - _ScaledHeight: 8
     - _ScatterStrength: 20
-    - _StarBrightness: 51
+    - _StarBrightness: 5
     - _StarJitterSpeed: 0.1
     - _StarRotateSpeed: 5
     - _StarScale: 5
@@ -88,8 +88,8 @@ Material:
     - _StarSpeed: 0.02
     - _StarThreshold: 0.0002
     - _Step: 0.6
-    - _SunIntensity: 100
-    - _SunSize: 0.05
+    - _SunIntensity: 5
+    - _SunSize: 0.036
     - _WaveLength: 0
     - _Wavelength: 0
     - _X: 1
