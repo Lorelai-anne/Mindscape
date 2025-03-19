@@ -3370,10 +3370,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Trigger: {fileID: 267713880}
-  Player: {fileID: 0}
+  Player: {fileID: 170771453}
   AnswerAnimator:
   - {fileID: 0}
-  TriggerName: Sunrise
+  TriggerName: 
   Objects:
   - {fileID: 1997311381}
   On_Objects:
@@ -5023,7 +5023,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Trigger: {fileID: 341262439}
-  Player: {fileID: 0}
+  Player: {fileID: 1964602097}
   AnswerAnimator:
   - {fileID: 950487516}
   TriggerName: Sunrise
@@ -7790,10 +7790,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Trigger: {fileID: 471258394}
-  Player: {fileID: 0}
+  Player: {fileID: 1964602097}
   AnswerAnimator:
   - {fileID: 0}
-  TriggerName: Sunrise
+  TriggerName: 
   Objects:
   - {fileID: 1997311381}
   On_Objects:
@@ -16424,7 +16424,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Trigger: {fileID: 1024216816}
-  Player: {fileID: 0}
+  Player: {fileID: 1964602097}
   AnswerAnimator:
   - {fileID: 950487516}
   TriggerName: Sunset
@@ -49159,6 +49159,7 @@ SceneRoots:
   m_Roots:
   - {fileID: 1820121791}
   - {fileID: 330585546}
+  - {fileID: 158881599}
   - {fileID: 1303442103}
   - {fileID: 1332046280}
   - {fileID: 380591749}
@@ -49175,4 +49176,3 @@ SceneRoots:
   - {fileID: 950487515}
   - {fileID: 569483978}
   - {fileID: 170771455}
-  - {fileID: 158881599}
