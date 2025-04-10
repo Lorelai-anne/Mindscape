@@ -9,9 +9,10 @@ public class FadeToBlack : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        if(other.gameObject == Player)
-        {
-            SceneManager.LoadScene(1);
-        }
+        //if(other.gameObject == Player)
+        // {
+        //    SceneManager.LoadScene(1);
+        //}
+        Application.Quit();
     }
 }
