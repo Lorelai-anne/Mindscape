@@ -9,7 +9,7 @@ In this repository you will find files related to the project including
 - Final Project Writeup
 
 ## Authors
-- **Khalid Al Asmaeel** - Particle Effects/Level Design
+- **Khalid Al Asmaeel** - Particle Effects/Level Design/Video Editing
 - **Mais Aljambi** - 3D Artist
 - **Otto Fesperman** - 3D Artist
 - **Hajung Woo** - Main Programmer
@@ -21,9 +21,9 @@ In this repository you will find files related to the project including
 ## Links
 - Game URL : [Itch.io](https://lorelai-anne.itch.io/mindscape)
 - Final Proposal Doc : [Document](https://docs.google.com/document/d/1LV1aAeXyzmSyOpTEzOoKmIGg1eMcJY5v_U6xpMQTelo/edit?usp=sharing)
-- Video Documentation : [Video]()
+- Video Documentation : [Video](https://drive.google.com/file/d/1Es8STvwdh9ebC1jFfnGEMWOr5WIRIslI/view?usp=sharing)
 ## Older Links
-- Unedited Gameplay : [Video]()
+- Unedited Gameplay : [Video](https://youtu.be/kNGHDTfyWoc)
 - Pitch/Concept URL : [Powerpoint](https://docs.google.com/presentation/d/1mK9QrMIcvG9l14wTSwkUO5ibIGA96X_jA2mLbKKcAaE/edit?usp=sharing)
 
 ### Files in Repository
