@@ -27,4 +27,5 @@ This Project is about self discovery. Through the practice of mindfullness, you 
 
 ### Files in Repository
 ./Team1/ - This folder contains the Unity Game files associated with this game
+
 ./Still Images/ - This folder contains stills of gameplay
