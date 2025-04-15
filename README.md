@@ -18,7 +18,7 @@ This Project is about self discovery. Through the practice of mindfullness, you 
 ![alt text](https://github.com/Lorelai-anne/Team2/blob/main/Still%20Images/Choice.png)
 
 ## Links
-- Game URL : [Itch.io](https://lorelai-anne.itch.io/mindscape?secret=72ySsfLIpHHvnc1j8ka2Kp9mdHY)
+- Game URL : [Itch.io]((https://lorelai-anne.itch.io/mindscape))
 - Final Proposal Doc : [Document](https://docs.google.com/document/d/1LV1aAeXyzmSyOpTEzOoKmIGg1eMcJY5v_U6xpMQTelo/edit?usp=sharing)
 - Video Documentation : [Video](https://drive.google.com/file/d/1Es8STvwdh9ebC1jFfnGEMWOr5WIRIslI/view?usp=sharing)
 ## Older Links
