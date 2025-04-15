@@ -5,11 +5,11 @@
 This Project is about self discovery. Through the practice of mindfullness, you take a journey of answering questions along a path in a place you do not understand. As you follow the foggy path, the player gets to wander deeper and deeper into their subconcious.
 
 ## Authors
-- **Hajung Woo** - Main Programmer
-- **Lorelai Davis** - Lead Programmer/Level Design
-- **Khalid Al Asmaeel** - Particle Effects/Level Design/Video Editing
-- **Mais Aljambi** - 3D Artist
-- **Otto Fesperman** - 3D Artist
+- [Hajung Woo](https://github.com/woooo000) - Main Programmer
+- [Lorelai Davis](https://github.com/Lorelai-anne) - Lead Programmer/Level Design
+- [Khalid Al Asmaeel](https://github.com/dekhalid) - Particle Effects/Level Design/Video Editing
+- [Mais Aljambi](https://github.com/MAIS-J) - 3D Artist
+- [Otto Fesperman](https://github.com/Fespermano) - 3D Artist
 
 ## Game Description
 “Mindscape” is a VR experience that transports the player into a dreamy landscape that is designed to entice self reflection and discovery. The player starts off in familiar surroundings, but as they walk further the world becomes more surreal. During this walk, they are asked various questions that induce different outcomes based on their decisions.
@@ -27,3 +27,4 @@ This Project is about self discovery. Through the practice of mindfullness, you 
 
 ### Files in Repository
 ./Team1/ - This folder contains the Unity Game files associated with this game
+./Still Images/ - This folder contains stills of gameplay
